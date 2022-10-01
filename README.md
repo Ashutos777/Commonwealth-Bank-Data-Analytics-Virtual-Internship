@@ -57,4 +57,4 @@ Scenarios:
 
 ## SOLUTION -
 
-* #### For Solution Please Refer to : 
+* #### For Solution Please Refer to : Ethics in Data Analytics.docx
