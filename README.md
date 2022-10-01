@@ -10,9 +10,6 @@
 ## TOOLS USED - 
 
 
-![images (1)](https://user-images.githubusercontent.com/111995863/192858008-c8db9a4e-fcef-4898-8d09-80a30bfce799.png)
-      ![download (7)](https://user-images.githubusercontent.com/111995863/192615735-1c858780-4762-4eb7-9f88-37eea8dd752c.png)
-
 
 
 ## SOME SCREENSHOTS OF FILTERING THE DATA THAT IS CHECKING THE NULL VALUES AND DUPLICATE DATA - 
