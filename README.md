@@ -14,7 +14,12 @@
 
 
 
-## SOME SCREENSHOTS OF FILTERING THE DATA THAT IS CHECKING THE NULL VALUES AND DUPLICATE DATA -
+## SAMPLE VISUALIZATION -
+
+* First I have Cleaned the Null values and duplicates by using Tableau data interpreter option.
+
+
+* Secondly I have checked the datatypes of all columns of the dataset whether it is correct or not. 
 
 
  
