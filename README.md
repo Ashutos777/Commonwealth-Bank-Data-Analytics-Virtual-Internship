@@ -38,7 +38,7 @@ Provide a recommendation to Lana in your presentation:
  
  ## SOLUTION -
 
-* #### For Solution Please Refer to :
+* #### For Solution Please Refer to : Lana Cookies template.docx
 
 
 ## TASK 2 -
