@@ -9,21 +9,15 @@
 
 ## TOOLS USED - 
 
+![download](https://user-images.githubusercontent.com/111995863/193412142-23bde289-d9f1-4f65-b1ee-25db1b3b47bb.jpg)
+   ![images (3)](https://user-images.githubusercontent.com/111995863/193412214-da8189cc-0163-42cd-ba07-3f909b6cd756.png)
 
 
 
 ## SOME SCREENSHOTS OF FILTERING THE DATA THAT IS CHECKING THE NULL VALUES AND DUPLICATE DATA - 
  
 
-![Screenshot 2022-09-29 000841](https://user-images.githubusercontent.com/111995863/192864155-bc52ec27-9071-46bb-9ff9-24374655dbb1.png)
 
-
-
-![Screenshot 2022-09-29 000957](https://user-images.githubusercontent.com/111995863/192864908-7d39c429-1e8f-4011-827b-bff47bacbfa8.png)
-
-
-
-![Screenshot 2022-09-29 001104](https://user-images.githubusercontent.com/111995863/192864196-ebf82962-b8dc-421f-80e0-3a620b54e0d8.png)
 
 
 
@@ -31,16 +25,20 @@
 
 ## TASK 1 -
 
-* Trends over time in male and female employment, including any notable changes
-* The current representation of part time employees in the sector and in each Cluster
-* The current representation of male and female part time employees as a proportion of the respective male and the female workforce in the sector and in each cluster
-* Change in these two above statistics over the last 4 years
-* Projection of what the representation will be by 2025 if the current trends continue
+* What are demographics? In your own words, provide in a simple explanation.
+* What demographic characteristics are provided in the dataset?
+* Which demographic group buys the most cookies?
+* What is the most popular type of cookie?
+
+Provide a recommendation to Lana in your presentation:
+
+* What types of cookie should Lana sell and why?
+* Which demographics should she target?
 
  
  ## SOLUTION -
 
-* #### For Solution Please Refer to : Data Analysis solution (NSW).xlsx
+* #### For Solution Please Refer to :
 
 
 ## TASK 2 -
